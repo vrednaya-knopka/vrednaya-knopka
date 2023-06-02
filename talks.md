@@ -5,3 +5,4 @@
 - [Подкаст Кода Кода. Эйчары в IT: не наймом единым](https://kodakoda.mave.digital/ep-39) - 12 октября 2022
 - [Синдром самозванца. Ловушка для твоего мозга](https://www.youtube.com/watch?v=oMz1eO_aDd8) - 13 марта 2023
 - [Митап Джуниоров #16 Q&A-сессия с HRD: все, что вы хотели спросить, но не знали, у кого](https://www.youtube.com/watch?v=ggBMKUCudL8) - 11 мая 2023
+- [Митап Джуниоров #17. Обратная сторона эйчар и хэхэ ру](https://www.youtube.com/watch?v=Bzkq7CEPVIU) - 01 июня 2023
