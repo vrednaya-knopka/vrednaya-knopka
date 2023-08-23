@@ -8,3 +8,4 @@
 - [Пошаговый гайд. Как разработчику составить крутое резюме, если мало опыта](https://tproger.ru/articles/poshagovyj-gajd-kak-razrabotchiku-sostavit-krutoe-rezjume-esli-malo-opyta/) - 19 января 2022
 - [Профессиональное выгорание в IT: правда или миф?](https://blog.skillfactory.ru/professionalnoe-vygoranie-v-it-pravda-ili-mif/) - 27 июля 2022
 - [Нанимать или взращивать? Разбираемся, откуда брать руководителей](https://rb.ru/opinion/nanimat-ili-vzrashivat/) - 04 октября 2022
+- [Стресс интервью - не норм] (https://www.unisender.com/ru/blog/kuhnya/chto-takoe-stressovoe-intervyu-i-kak-ego-projti/) - 10 августа 2023
